@@ -1,0 +1,3 @@
+# scratchpad
+
+just some thoughts
